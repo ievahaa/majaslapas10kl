@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 h1, h3 {
     color: aqua;
 }
@@ -38,4 +42,9 @@ body {
 
 .blakus {
     float: right;
+}
+.kaste {
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
 }
